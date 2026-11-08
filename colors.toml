@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Vienna: coffeehouse walnut, Ringstrasse limestone, Secession gold,
+# oxidised copper rooftops, and the blue hour over the Belvedere.
+accent = "#d6b66f"
+selection = "#514535"
+muted = "#84776a"
+
+background = "#24201e"
+dark_background = "#1c1917"
+darker_background = "#151211"
+lighter_background = "#35302b"
+
+foreground = "#eee3cc"
+dark_foreground = "#ac9c86"
+light_foreground = "#dccdb3"
+bright_foreground = "#fff3dc"
+
+red = "#d48285"
+yellow = "#d6b66f"
+orange = "#d59a70"
+green = "#96b391"
+cyan = "#83b8ae"
+blue = "#8caec7"
+magenta = "#bb99b1"
+brown = "#98775c"
+
+bright_red = "#eca0a0"
+bright_yellow = "#eed098"
+bright_green = "#b3cba5"
+bright_cyan = "#a2d1c5"
+bright_blue = "#abc9df"
+bright_magenta = "#d5b6ca"
+
+hyprland_active_border = "#d6b66f #83b8ae 45deg"
+hyprland_inactive_border = "#514535"
