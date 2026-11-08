@@ -6,6 +6,15 @@ wine red, and blue hour at the Belvedere.
 
 Uses Omarchy's generated application themes from colors.toml.
 
+![Vienna desktop with terminal and editor](preview.webp)
+
+Wallpaper: Diego Delso, [delso.photo](https://delso.photo/),
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Photo source](https://commons.wikimedia.org/wiki/File:Palacio_Belvedere,_Viena,_Austria,_2020-02-01,_DD_93-95_HDR.jpg).
+Preview: CC BY-SA 4.0; desktop compositing, crop, downsampling, and compression.
+See [preview notices](preview.webp.license).
+
+
 Five original-resolution Vienna photographs; see BACKGROUNDS.md for sources and credits.
 
 ## Install

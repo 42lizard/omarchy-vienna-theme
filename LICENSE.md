@@ -14,3 +14,5 @@ its third-party contents are not relicensed by MIT. The
 Omarchy-generated application configuration is not included in this source package.
 
 Retain the photograph notices and license when redistributing this package.
+
+`preview.webp` is a CC BY-SA 4.0 desktop preview incorporating the Belvedere photograph; see `preview.webp.license`. It is excluded from MIT.
