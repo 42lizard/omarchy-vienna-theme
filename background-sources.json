@@ -1,10 +1,10 @@
 [
   {
-    "file": "01-belvedere-blue-hour.jpg",
+    "file": "01-belvedere-blue-hour.webp",
     "title": "Palacio Belvedere, Viena, Austria, 2020-02-01, DD 93-95 HDR.jpg",
-    "size": 9107853,
-    "width": 7785,
-    "height": 3428,
+    "size": 422440,
+    "width": 3840,
+    "height": 1691,
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palacio_Belvedere,_Viena,_Austria,_2020-02-01,_DD_93-95_HDR.jpg",
     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93730887",
@@ -87,14 +87,21 @@
         "source": "commons-templates",
         "hidden": ""
       }
-    }
+    },
+    "original": {
+      "file": "01-belvedere-blue-hour.jpg",
+      "size": 9107853,
+      "width": 7785,
+      "height": 3428
+    },
+    "changes": "Downsampled to at most 3840 pixels wide, metadata stripped, and re-encoded as WebP at quality 82. Original source metadata retained below for attribution."
   },
   {
-    "file": "02-staatsoper-blue-hour.jpg",
+    "file": "02-staatsoper-blue-hour.webp",
     "title": "20180109 Vienna State Opera at blue hour 850 9387.jpg",
-    "size": 12636144,
-    "width": 7520,
-    "height": 4637,
+    "size": 1370128,
+    "width": 3840,
+    "height": 2368,
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "descriptionurl": "https://commons.wikimedia.org/wiki/File:20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65434238",
@@ -172,14 +179,21 @@
         "source": "commons-templates",
         "hidden": ""
       }
-    }
+    },
+    "original": {
+      "file": "02-staatsoper-blue-hour.jpg",
+      "size": 12636144,
+      "width": 7520,
+      "height": 4637
+    },
+    "changes": "Downsampled to at most 3840 pixels wide, metadata stripped, and re-encoded as WebP at quality 82. Original source metadata retained below for attribution."
   },
   {
-    "file": "03-donau-city.jpg",
+    "file": "03-donau-city.webp",
     "title": "2014-09-29 - Reichsbr\u00fccke-Donau City-Sunken City.jpg",
-    "size": 28452916,
-    "width": 11962,
-    "height": 6200,
+    "size": 616884,
+    "width": 3840,
+    "height": 1990,
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2014-09-29_-_Reichsbr%C3%BCcke-Donau_City-Sunken_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014-09-29_-_Reichsbr%C3%BCcke-Donau_City-Sunken_City.jpg",
     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35835775",
@@ -280,14 +294,21 @@
         "source": "commons-templates",
         "hidden": ""
       }
-    }
+    },
+    "original": {
+      "file": "03-donau-city.jpg",
+      "size": 28452916,
+      "width": 11962,
+      "height": 6200
+    },
+    "changes": "Downsampled to at most 3840 pixels wide, metadata stripped, and re-encoded as WebP at quality 82. Original source metadata retained below for attribution."
   },
   {
-    "file": "04-schoenbrunn.jpg",
+    "file": "04-schoenbrunn.webp",
     "title": "Schoenbrunn Palace as seen from Neptune Fountain, September 2016.jpg",
-    "size": 10152670,
-    "width": 5426,
-    "height": 2982,
+    "size": 521066,
+    "width": 3840,
+    "height": 2110,
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Schoenbrunn_Palace_as_seen_from_Neptune_Fountain%2C_September_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Schoenbrunn_Palace_as_seen_from_Neptune_Fountain,_September_2016.jpg",
     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51674427",
@@ -378,14 +399,21 @@
         "source": "commons-templates",
         "hidden": ""
       }
-    }
+    },
+    "original": {
+      "file": "04-schoenbrunn.jpg",
+      "size": 10152670,
+      "width": 5426,
+      "height": 2982
+    },
+    "changes": "Downsampled to at most 3840 pixels wide, metadata stripped, and re-encoded as WebP at quality 82. Original source metadata retained below for attribution."
   },
   {
-    "file": "05-secession-gold.jpg",
+    "file": "05-secession-gold.webp",
     "title": "Wiener Secessionsgeb\u00e4ude Kuppel Blattwerk 20230811 01.jpg",
-    "size": 13205323,
-    "width": 5631,
-    "height": 3754,
+    "size": 1058194,
+    "width": 3840,
+    "height": 2560,
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Wiener_Secessionsgeb%C3%A4ude_Kuppel_Blattwerk_20230811_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wiener_Secessionsgeb%C3%A4ude_Kuppel_Blattwerk_20230811_01.jpg",
     "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137874139",
@@ -476,6 +504,13 @@
         "source": "commons-templates",
         "hidden": ""
       }
-    }
+    },
+    "original": {
+      "file": "05-secession-gold.jpg",
+      "size": 13205323,
+      "width": 5631,
+      "height": 3754
+    },
+    "changes": "Downsampled to at most 3840 pixels wide, metadata stripped, and re-encoded as WebP at quality 82. Original source metadata retained below for attribution."
   }
 ]

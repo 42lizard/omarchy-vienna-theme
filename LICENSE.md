@@ -1,6 +1,6 @@
 # Licensing scope
 
-The five JPEG photographs in `backgrounds/` remain copyrighted by their respective
+The five WebP photographs in `backgrounds/` remain copyrighted by their respective
 photographers and are distributed under CC BY-SA 4.0. See [BACKGROUNDS.md](BACKGROUNDS.md)
 for individual credits, sources, and modification notices, and
 [the complete license](LICENSES/CC-BY-SA-4.0.txt) for its terms and warranty disclaimer.

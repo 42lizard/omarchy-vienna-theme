@@ -15,7 +15,7 @@ Preview: CC BY-SA 4.0; desktop compositing, crop, downsampling, and compression.
 See [preview notices](preview.webp.license).
 
 
-Five original-resolution Vienna photographs; see BACKGROUNDS.md for sources and credits.
+Five Vienna photographs optimized as WebP at up to 3840 pixels wide; see BACKGROUNDS.md for sources and credits.
 
 ## Install
 
@@ -42,5 +42,5 @@ See [LICENSE.md](LICENSE.md) for scope and
 Keep these files in published releases. Caption photo previews with the relevant
 photographer credit, source, license link, and any changes.
 
-Only the five credited JPEGs are part of this theme. The retired, soft Belvedere
+Only the five credited WebP backgrounds are part of this theme. The retired, soft Belvedere
 wallpaper is excluded because its redistribution rights were not verified.
